@@ -1,6 +1,10 @@
 # Modal Decomposition Techniques on PM2.5 data
 
-This repository contains Matlab code that applies matrix QR pivoting and multiresolution dynamic mode decomposition (mrDMD) to optimize sensor placement for PM2.5 data. 
+This repository contains Matlab code that applies matrix QR pivoting and multiresolution dynamic mode decomposition (mrDMD) to optimize sensor placement for PM
+2.5 data. 
+
+Due to GitHub file size limitations, the following analyzed dataset is linked [online]
+(https://zenodo.org/record/5809461#.YzEJFnbMLtU)
 
 ## Repository organization
 
